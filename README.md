@@ -17,7 +17,7 @@ Paste your movie links and get titles, genres, languages, cast, crew, posters, a
 
 ## 🚀 Installation
 
-git clone https://github.com/YourUsername/CineFetch.git
+git clone https://github.com/N3tw0rk-h4x0r/CineFetch
 cd CineFetch
 pip install requests Pillow
 python CineFetch.py
